@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWEFundamentals1", "SWEFundamentals1\SWEFundamentals1.csproj", "{1ED2396C-6AD7-4F10-8301-8F217118A31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED2396C-6AD7-4F10-8301-8F217118A31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED2396C-6AD7-4F10-8301-8F217118A31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED2396C-6AD7-4F10-8301-8F217118A31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED2396C-6AD7-4F10-8301-8F217118A31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F293E4-BC8A-4E85-B3F9-7B20211C1DDC}
+	EndGlobalSection
+EndGlobal
